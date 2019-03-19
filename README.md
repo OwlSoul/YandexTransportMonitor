@@ -4,7 +4,7 @@
 [![Last test time](http://owlsoul.biz.tm/status/YandexTransportMonitor/status.php?image=out-last-test.png)](http://owlsoul.biz.tm/status/YandexTransportMonitor/status.php?image=out-last-test.png)
 [![Test status](http://owlsoul.biz.tm/status/YandexTransportMonitor/status.php?image=out-test-status.png)](http://owlsoul.biz.tm/status/YandexTransportMonitor/status.php?image=out-test-status.png)
 
-*Development is stopped in favor of [YandexTransportProxy](https://github.com/OwlSoul/YandexTransportProxy) project, more advanced version which supports practically all information from Yandex Transport API.*
+**_Development is stopped in favor of [YandexTransportProxy](https://github.com/OwlSoul/YandexTransportProxy) project, more advanced version which supports practically all information from Yandex Transport API._**
 
 *This project is for "Yandex.Maps" and "Yandex.Transport" services, so it's expected that majority of potential users are from Russian Federation, thus the README is written in russian language.*
 
