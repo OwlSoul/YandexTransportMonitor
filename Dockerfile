@@ -28,10 +28,10 @@ ENV TZ=${timezone}
 RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone 
 
 # Install Chromium browser
-RUN apt-get install -y chromium-browser=72.0.3626.121-0ubuntu0.18.04.1
+RUN apt-get install -y chromium-browser
 
 # Installing WebDriver, note that it has the same version as Chromium
-RUN apt-get install -y chromium-chromedriver=72.0.3626.121-0ubuntu0.18.04.1
+RUN apt-get install -y chromium-chromedriver
 
 # Because life can't be easy, isn't it?
 # psycopg2-binary refuses to install on armhf without this thing.
