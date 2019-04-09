@@ -1,5 +1,9 @@
 # Yandex Transport Monitor
 
+**Project support is terminated on 10-04-2019.** \
+**Automated monitoring is suspended. \
+Yandex Transport Proxy is superior in every way.**
+
 **Status (Experemental Glorious Huge Soviet Badges):** \
 [![Last test time](http://owlsoul.biz.tm/status/YandexTransportMonitor/status.php?image=out-last-test.png)](http://owlsoul.biz.tm/status/YandexTransportMonitor/status.php?image=out-last-test.png)
 [![Test status](http://owlsoul.biz.tm/status/YandexTransportMonitor/status.php?image=out-test-status.png)](http://owlsoul.biz.tm/status/YandexTransportMonitor/status.php?image=out-test-status.png)
