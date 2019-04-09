@@ -1,7 +1,9 @@
 # Yandex Transport Monitor
 
-**Project support is terminated on 10-04-2019.** \
-**Automated monitoring is suspended. \
+**END OF LIFE: 10-04-2019 \
+ \
+Project support is terminated. \
+Automated monitoring and weekly builds are suspended. \
 Yandex Transport Proxy is superior in every way.**
 
 **Status (Experemental Glorious Huge Soviet Badges):** \
