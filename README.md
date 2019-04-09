@@ -6,7 +6,6 @@ Yandex Transport Proxy is superior in every way.**
 
 **Status (Experemental Glorious Huge Soviet Badges):** \
 [![Last test time](http://owlsoul.biz.tm/status/YandexTransportMonitor/status.php?image=out-last-test.png)](http://owlsoul.biz.tm/status/YandexTransportMonitor/status.php?image=out-last-test.png)
-[![Test status](http://owlsoul.biz.tm/status/YandexTransportMonitor/status.php?image=out-test-status.png)](http://owlsoul.biz.tm/status/YandexTransportMonitor/status.php?image=out-test-status.png)
 
 **_Development is stopped in favor of [YandexTransportProxy](https://github.com/OwlSoul/YandexTransportProxy) project, more advanced version which supports practically all information from Yandex Transport API._**
 
